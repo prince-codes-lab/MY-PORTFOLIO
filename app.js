@@ -16,3 +16,5 @@ function rollDice()
     diceImg.innerHTML = images.join(" ")
  
 }
+
+// this is a comment
